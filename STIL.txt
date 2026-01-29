@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Documant */
+p {
+color:rgb(4, 150, 220);
+font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 16px;
+line-height: 18px;
+width: 600px;
+background-color: aliceblue;
+padding: 10px;
