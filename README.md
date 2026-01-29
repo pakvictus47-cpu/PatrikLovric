@@ -1,1 +1,1 @@
-![Digitalni multimediji] (./slike/font.png)
+![Patrik Lovrić](./images/font.png)
