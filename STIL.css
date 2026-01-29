@@ -2,6 +2,10 @@
 /* CSS Documant */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
 
+body {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+}
+
 * {
 margin: 4;
 padding: 4;
@@ -200,5 +204,6 @@ text-decoration: underline;
 color: #dark green;
 background: rgba(0,140,0,0.2);
 }
+
 
 
